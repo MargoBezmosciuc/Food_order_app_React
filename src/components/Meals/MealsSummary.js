@@ -3,15 +3,13 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Delicious Food, Delivered To You</h2>
+      {/* <h2>Circus Antoni: A Century of Wonder and Entertainment</h2>
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
+      Circus Antoni was a famous European circus founded by Antoni Franconi in 1841. Known for its diverse range of acts, including clowns, aerialists, and animal trainers. 
       </p>
       <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
-      </p>
+        It entertained audiences for over a century with its unique blend of music, dance, and comedy. The circus traveled extensively throughout Europe and was a beloved part of the cultural landscape.
+      </p> */}
     </section>
   );
 };
